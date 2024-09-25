@@ -1,5 +1,6 @@
 # Landing Page
 Este repositório contém o código-fonte de uma landing page simples, desenvolvida com o objetivo de fornecer uma interface clara e atraente para promover um produto ou serviço.
+![imagem_2024-09-25_142928985](https://github.com/user-attachments/assets/3589e18c-57e0-4e51-bc06-eea020f88914)
 
 ## 📋 Funcionalidades
 Design responsivo para diferentes tamanhos de tela (desktop, tablet e mobile)
