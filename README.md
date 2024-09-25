@@ -15,7 +15,7 @@ Formulário de contato funcional
 ### Passos
 * Clone o repositório:
 * Copiar código
-* git clone https://github.com/renanmatheuslabrantes/LandingPageGit
+* git clone https://github.com/renanmatheuslabrantes/LandingPageV01
 Navegue até o diretório do projeto:
 
 ### Copiar código
