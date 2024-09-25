@@ -24,7 +24,6 @@ Navegue até o diretório do projeto:
 ## 🛠️ Tecnologias Utilizadas
 * HTML5
 * CSS
-* Bootstrap (opcional, caso utilize)
 * FontAwesome para ícones
 
 ## 📬 Contato
